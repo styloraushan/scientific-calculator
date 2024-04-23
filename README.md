@@ -1,4 +1,4 @@
-                                                                                                 ** **SCIENTIFIC CALCULATOR****
+                      **    SCIENTIFIC CALCULATOR**
                                                                                                  
  This is a simple scientific calculator built using HTML, CSS, and JavaScript. It provides basic arithmetic operations along with scientific functions such as square root, exponentiation, trigonometric functions, 
  and more.
