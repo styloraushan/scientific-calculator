@@ -1,15 +1,19 @@
-**SCIENTIFIC CALCULATOR**
+# SCIENTIFIC CALCULATOR
                                                                                                  
  This is a simple scientific calculator built using HTML, CSS, and JavaScript. It provides basic arithmetic operations along with scientific functions such as square root, exponentiation, trigonometric functions, 
  and more.
 
-**FEATURES**
+# FEATURES
 
-**Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division.
+# Basic Arithmetic Operations:
 
-**Scientific Functions:** Includes trigonometric functions (sine, cosine, tangent), square root, exponentiation, and more.
+ Addition, subtraction, multiplication, and division.
 
-**Responsive Design:**The calculator interface is designed to adapt to different screen sizes for optimal user experience.
+# Scientific Functions:
+Includes trigonometric functions (sine, cosine, tangent), square root, exponentiation, and more.
+
+# Responsive Design:
+The calculator interface is designed to adapt to different screen sizes for optimal user experience.
 
 **TECHNOLOGIES USED**
 
