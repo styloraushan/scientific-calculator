@@ -15,7 +15,7 @@ Includes trigonometric functions (sine, cosine, tangent), square root, exponenti
 # Responsive Design:
 The calculator interface is designed to adapt to different screen sizes for optimal user experience.
 
-**TECHNOLOGIES USED**
+# TECHNOLOGIES USED
 
 **HTML:** Markup language for structuring the calculator interface.
 
