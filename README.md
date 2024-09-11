@@ -15,6 +15,12 @@ Includes trigonometric functions (sine, cosine, tangent), square root, exponenti
 ## Responsive Design:
 The calculator interface is designed to adapt to different screen sizes for optimal user experience.
 
+## Demo
+
+https://styloraushan.github.io/scientific-calculator/
+
+
+
 ## TECHNOLOGIES USED
 
 **HTML:** Markup language for structuring the calculator interface.
